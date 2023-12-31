@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a computer science student<br>i know python, java, c and c++<br>currently looking to learn about AI and ML<br>
+i am a computer science student<br>i know python, java, c and c++<br>L<br>
 
 
 ## 🌐 Socials:
