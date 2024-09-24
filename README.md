@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a computer science student
+i am a linux dev
 
 
 ## 🌐 Socials:
