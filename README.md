@@ -1,6 +1,6 @@
 <!-- Cyberpunk Banner -->
 <div align="center">
-  <img src="https://i.imgur.com/7yUVE7x.png" width="100%" alt="Cyberpunk Banner"/>
+  <img src="./assets/banner.png" width="100%" alt="Cyberpunk Banner"/>
 </div>
 
 <h1 align="center">⚡ ThryLox — Architect of the Neon Grid</h1>
@@ -95,7 +95,7 @@ Status: **Online** — Welcome to the Neon Grid.
 ## 🎧 Daily Neon Vibe  
 
 <p align="center">
-  <img src="https://media.tenor.com/VV1jLaWG1jEAAAAC/cyberpunk-anime.gif" width="480" alt="Cyberpunk Vibe"/>
+  <img src="./assets/vibe.png" width="480" alt="Cyberpunk Vibe"/>
 </p>
 
 ---
