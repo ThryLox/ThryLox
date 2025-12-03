@@ -1,48 +1,97 @@
-<h2 align="left">Hi 👋! My name is ThryLox</h2>
+<!-- Cyberpunk Banner (Replace anytime) -->
+<div align="center">
+  <img src="https://i.imgur.com/7yUVE7x.png" width="100%" alt="Cyberpunk Banner"/>
+</div>
 
-###
+<h1 align="center">⚡ ThryLox — Architect of the Neon Grid</h1>
+
+<p align="center">
+  <em>Developer • Creator • Tech Explorer</em><br/>
+  <em>Building futuristic systems in the glow of neon light.</em>
+</p>
+
+---
+
+## 🟣 Who Am I?
+
+I'm a developer who loves crafting sleek, modern, and visually striking digital experiences.  
+I explore frameworks, design trends, system architecture, automation, and emerging tools — always aiming to build something better, faster, and cooler than before.
+
+**Core things about me:**
+- 🔥 Passion for UI/UX and futuristic aesthetics  
+- ⚙️ Constantly improving my coding skills  
+- 🚀 Obsessed with turning ideas into real projects  
+- 🧠 Forever learning, experimenting, and pushing boundaries  
+
+---
+
+## 🧰 Tech Arsenal  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThryLox&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+### ⚙️ Languages & Frameworks  
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,java,python,bash&theme=dark" />
+
+### 🛠️ Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=github,git,vscode,figma,linux,cloudflare&theme=dark" />
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2pvdjZ5dm93Njl6aDllcXZ1YTh3dGVoaTc4a3EwNTluMGV3aTJociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+## 🔥 System Analytics
 
-###
+<div align="center">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ThryLox&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThryLox&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThryLox&theme=tokyo-night&hide_border=true" />
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+## 🚀 Featured Projects  
+
+> *A curated selection of what I’m proud of. Add yours here.*
+
+- **Project One** — A futuristic UI with cyberpunk styling  
+- **Project Two** — A high-performance backend with clean architecture  
+- **Project Three** — A tool designed to simplify complex workflows  
+
+---
+
+## 🌐 Neon Links  
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-D6008D?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-18191A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThryLox)
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 💬 System Log  
+
+Initializing profile...
+Establishing neural uplink...
+Repositories synchronized.
+Status: Online — Welcome to the Neon Grid.
 
 
+---
 
-###
+## 🎧 Daily Neon Vibe  
+
+<p align="center">
+  <img src="https://media.tenor.com/VV1jLaWG1jEAAAAC/cyberpunk-anime.gif" width="480" alt="Cyberpunk Vibe"/>
+</p>
+
+---
+
+<p align="center">
+  <sub>🚀 Crafted with neon, logic, and a spark of chaos.</sub>
+</p>
