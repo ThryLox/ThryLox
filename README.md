@@ -1,9 +1,15 @@
-<!-- Cyberpunk Banner (Replace anytime) -->
+<!-- Cyberpunk Banner -->
 <div align="center">
   <img src="https://i.imgur.com/7yUVE7x.png" width="100%" alt="Cyberpunk Banner"/>
 </div>
 
 <h1 align="center">⚡ ThryLox — Architect of the Neon Grid</h1>
+
+<p align="center">
+  <a href="https://github.com/ThryLox">
+    <img src="https://komarev.com/ghpvc/?username=ThryLox&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+</p>
 
 <p align="center">
   <em>Developer • Creator • Tech Explorer</em><br/>
@@ -25,15 +31,23 @@ I explore frameworks, design trends, system architecture, automation, and emergi
 
 ---
 
+## 🐍 Contribution Graph  
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ThryLox/ThryLox/output/snake.svg" alt="Snake Animation" width="100%" />
+</div>
+
+---
+
 ## 🧰 Tech Arsenal  
 
 <div align="center">
 
 ### ⚙️ Languages & Frameworks  
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,java,python,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,java,python,bash&theme=dark" />
 
 ### 🛠️ Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=github,git,vscode,figma,linux,cloudflare&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,git,vscode,figma,linux,cloudflare,vercel,docker&theme=dark" />
 
 </div>
 
@@ -43,10 +57,12 @@ I explore frameworks, design trends, system architecture, automation, and emergi
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ThryLox&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThryLox&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ThryLox&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThryLox&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThryLox&theme=tokyo-night&hide_border=true" />
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThryLox&theme=tokyo-night&hide_border=true&bg_color=00000000" />
 
 </div>
 
@@ -54,33 +70,25 @@ I explore frameworks, design trends, system architecture, automation, and emergi
 
 ## 🚀 Featured Projects  
 
-> *A curated selection of what I’m proud of. Add yours here.*
+> *A curated selection of what I’m proud of.*
 
-- **Project One** — A futuristic UI with cyberpunk styling  
-- **Project Two** — A high-performance backend with clean architecture  
-- **Project Three** — A tool designed to simplify complex workflows  
+### 🌐 [Ekonkar Systems](https://www.ekonkar.systems)
+My personal portfolio showcasing my journey, skills, and projects. Built with modern web technologies and a focus on immersive design.
 
----
+### 📈 StockML
+An advanced stock analysis tool leveraging machine learning to predict market trends and provide actionable insights.
 
-## 🌐 Neon Links  
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-D6008D?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-18191A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThryLox)
-
-</div>
+### 🛡️ Sentinel Agent
+A powerful AI agent designed for autonomous monitoring and response, pushing the boundaries of what automated systems can achieve.
 
 ---
 
 ## 💬 System Log  
 
-Initializing profile...
-Establishing neural uplink...
-Repositories synchronized.
-Status: Online — Welcome to the Neon Grid.
-
+Initializing profile...  
+Establishing neural uplink...  
+Repositories synchronized.  
+Status: **Online** — Welcome to the Neon Grid.
 
 ---
 
