@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Summer</h2>
+<h2 align="left">Hi 👋! My name is ThryLox</h2>
 
 ###
 
