@@ -1,9 +1,9 @@
-<!-- Cyberpunk Banner -->
 <div align="center">
-  <img src="./assets/banner.png" width="100%" alt="Cyberpunk Banner"/>
+  <h1>🛡️ ThryLox</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=66fcf1&center=true&vCenter=true&width=600&lines=Cloud+Identity+%26+GRC+Security+Engineer;Zero+Trust+Architecture+Specialist;ITSG-33+%26+NIST+Compliance+Auditor;SecOps+%26+Automation+Developer" alt="Typing SVG" />
+  </a>
 </div>
-
-<h1 align="center">🛡️ ThryLox — Enterprise Cloud Identity & GRC Security Engineer</h1>
 
 <p align="center">
   <a href="https://github.com/ThryLox">
