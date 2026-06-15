@@ -12,7 +12,7 @@
 </p>
 
 > [!IMPORTANT]
-> **Federal GRC Guardrails & Identity Compliance Baseline Enforced**  
+> **GRC Guardrails & Identity Compliance Baseline Enforced**  
 > Aligned with ITSG-33, NIST SP 800-53 r5, Zero Trust Architecture, and TBS Cloud Guardrails. I specialize in translating complex security policies into automated policy-as-code audits, securing Azure/M365 cloud environments, and engineering high-resilience, low-blast-radius security systems.
 
 ---
