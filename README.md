@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.ekonkar.systems"><img src="https://img.shields.io/badge/Portfolio-ekonkar.systems-3fa6a6?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/esingh-1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-3fa6a6?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ekonkarsingh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-3fa6a6?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://www.ekonkar.systems/resume"><img src="https://img.shields.io/badge/Resume-View-3fa6a6?style=for-the-badge" alt="Resume" /></a>
 </p>
 
